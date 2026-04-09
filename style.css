@@ -1,0 +1,10 @@
+body {
+  font-family: Arial;
+  text-align: center;
+  background: #eef7f1;
+}
+
+#dashboard {
+  margin-top: 20px;
+  font-size: 18px;
+}
